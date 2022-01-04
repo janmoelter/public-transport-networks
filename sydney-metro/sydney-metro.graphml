@@ -1,0 +1,2153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+	<key id="d5" for="edge" attr.name="state" attr.type="string" />
+	<key id="d4" for="edge" attr.name="line" attr.type="string" />
+	<key id="d3" for="node" attr.name="state" attr.type="string" />
+	<key id="d2" for="node" attr.name="longitude" attr.type="double" />
+	<key id="d1" for="node" attr.name="latitude" attr.type="double" />
+	<key id="d0" for="node" attr.name="name" attr.type="string" />
+	<graph edgedefault="undirected">
+		<node id="ALW">
+			<data key="d0">Allawah</data>
+			<data key="d1">-33.969693</data>
+			<data key="d2">151.114511</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="ARC">
+			<data key="d0">Arncliffe</data>
+			<data key="d1">-33.936435</data>
+			<data key="d2">151.147349</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="ATM">
+			<data key="d0">Artarmon</data>
+			<data key="d1">-33.808856</data>
+			<data key="d2">151.185143</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="ASH">
+			<data key="d0">Ashfield</data>
+			<data key="d1">-33.887658</data>
+			<data key="d2">151.125818</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="ASQ">
+			<data key="d0">Asquith</data>
+			<data key="d1">-33.688684</data>
+			<data key="d2">151.108078</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="AUB">
+			<data key="d0">Auburn</data>
+			<data key="d1">-33.849302</data>
+			<data key="d2">151.032811</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="BKS">
+			<data key="d0">Banksia</data>
+			<data key="d1">-33.94534</data>
+			<data key="d2">151.140407</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="BNK">
+			<data key="d0">Bankstown</data>
+			<data key="d1">-33.917844</data>
+			<data key="d2">151.03464</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="BWP">
+			<data key="d0">Bardwell Park</data>
+			<data key="d1">-33.931602</data>
+			<data key="d2">151.124884</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="BEE">
+			<data key="d0">Beecroft</data>
+			<data key="d1">-33.749634</data>
+			<data key="d2">151.066389</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="BVS">
+			<data key="d0">Bella Vista</data>
+			<data key="d1">-33.73043</data>
+			<data key="d2">150.94395</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="BLM">
+			<data key="d0">Belmore</data>
+			<data key="d1">-33.917196</data>
+			<data key="d2">151.08871</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="BRL">
+			<data key="d0">Berala</data>
+			<data key="d1">-33.871915</data>
+			<data key="d2">151.032294</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="BWR">
+			<data key="d0">Berowra</data>
+			<data key="d1">-33.623538</data>
+			<data key="d2">151.153168</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="BVH">
+			<data key="d0">Beverly Hills</data>
+			<data key="d1">-33.949075</data>
+			<data key="d2">151.081021</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="BXN">
+			<data key="d0">Bexley North</data>
+			<data key="d1">-33.937548</data>
+			<data key="d2">151.11349</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="BIR">
+			<data key="d0">Birrong</data>
+			<data key="d1">-33.893315</data>
+			<data key="d2">151.02403</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="BKT">
+			<data key="d0">Blacktown</data>
+			<data key="d1">-33.76845</data>
+			<data key="d2">150.907407</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="BJN">
+			<data key="d0">Bondi Junction</data>
+			<data key="d1">-33.891255</data>
+			<data key="d2">151.248653</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="CMT">
+			<data key="d0">Cabramatta</data>
+			<data key="d1">-33.895002</data>
+			<data key="d2">150.93881</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="CTW">
+			<data key="d0">Campbelltown</data>
+			<data key="d1">-34.063628</data>
+			<data key="d2">150.81439</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="CPS">
+			<data key="d0">Campsie</data>
+			<data key="d1">-33.910559</data>
+			<data key="d2">151.102646</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="CNV">
+			<data key="d0">Canley Vale</data>
+			<data key="d1">-33.887203</data>
+			<data key="d2">150.94366</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="CTB">
+			<data key="d0">Canterbury</data>
+			<data key="d1">-33.911988</data>
+			<data key="d2">151.118688</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="CGB">
+			<data key="d0">Caringbah</data>
+			<data key="d1">-34.041596</data>
+			<data key="d2">151.12274</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="CLT">
+			<data key="d0">Carlton</data>
+			<data key="d1">-33.968238</data>
+			<data key="d2">151.124498</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="CRM">
+			<data key="d0">Carramar</data>
+			<data key="d1">-33.884319</data>
+			<data key="d2">150.961513</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="CSH">
+			<data key="d0">Castle Hill</data>
+			<data key="d1">-33.73149</data>
+			<data key="d2">151.00779</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="CAS">
+			<data key="d0">Casula</data>
+			<data key="d1">-33.950157</data>
+			<data key="d2">150.911845</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="CHA">
+			<data key="d0">Cheltenham</data>
+			<data key="d1">-33.75571</data>
+			<data key="d2">151.078545</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="CBK">
+			<data key="d0">Cherrybrook</data>
+			<data key="d1">-33.736693</data>
+			<data key="d2">151.031975</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="CHH">
+			<data key="d0">Chester Hill</data>
+			<data key="d1">-33.883545</data>
+			<data key="d2">150.999417</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="CLD">
+			<data key="d0">Clarendon</data>
+			<data key="d1">-33.608619</data>
+			<data key="d2">150.787986</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="CLY">
+			<data key="d0">Clyde</data>
+			<data key="d1">-33.835975</data>
+			<data key="d2">151.017066</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="COM">
+			<data key="d0">Como</data>
+			<data key="d1">-34.004348</data>
+			<data key="d2">151.068064</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="CNC">
+			<data key="d0">Concord West</data>
+			<data key="d1">-33.848403</data>
+			<data key="d2">151.085611</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="CNL">
+			<data key="d0">Cronulla</data>
+			<data key="d1">-34.055728</data>
+			<data key="d2">151.151455</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="CYD">
+			<data key="d0">Croydon</data>
+			<data key="d1">-33.88323</data>
+			<data key="d2">151.115596</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="DEN">
+			<data key="d0">Denistone</data>
+			<data key="d1">-33.799887</data>
+			<data key="d2">151.087478</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="DAP">
+			<data key="d0">Domestic Airport</data>
+			<data key="d1">-33.933728</data>
+			<data key="d2">151.181984</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="DOS">
+			<data key="d0">Doonside</data>
+			<data key="d1">-33.763993</data>
+			<data key="d2">150.868382</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="DLW">
+			<data key="d0">Dulwich Hill</data>
+			<data key="d1">-33.911009</data>
+			<data key="d2">151.140913</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="EHL">
+			<data key="d0">East Hills</data>
+			<data key="d1">-33.961853</data>
+			<data key="d2">150.984627</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="ERM">
+			<data key="d0">East Richmond</data>
+			<data key="d1">-33.601799</data>
+			<data key="d2">150.759183</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="EWD">
+			<data key="d0">Eastwood</data>
+			<data key="d1">-33.790128</data>
+			<data key="d2">151.082256</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="EDG">
+			<data key="d0">Edgecliff</data>
+			<data key="d1">-33.879254</data>
+			<data key="d2">151.236156</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="EDM">
+			<data key="d0">Edmondson Park</data>
+			<data key="d1">-33.969272</data>
+			<data key="d2">150.858626</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="EMU">
+			<data key="d0">Emu Plains</data>
+			<data key="d1">-33.745683</data>
+			<data key="d2">150.67158</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="EGD">
+			<data key="d0">Engadine</data>
+			<data key="d1">-34.067856</data>
+			<data key="d2">151.014722</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="ERV">
+			<data key="d0">Erskineville</data>
+			<data key="d1">-33.900357</data>
+			<data key="d2">151.185442</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="FRF">
+			<data key="d0">Fairfield</data>
+			<data key="d1">-33.872418</data>
+			<data key="d2">150.957002</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="FLM">
+			<data key="d0">Flemington</data>
+			<data key="d1">-33.864877</data>
+			<data key="d2">151.069948</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="GRD">
+			<data key="d0">Gordon</data>
+			<data key="d1">-33.755799</data>
+			<data key="d2">151.15433</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="GNV">
+			<data key="d0">Granville</data>
+			<data key="d1">-33.833094</data>
+			<data key="d2">151.012406</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="GSQ">
+			<data key="d0">Green Square</data>
+			<data key="d1">-33.906199</data>
+			<data key="d2">151.202436</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="GDF">
+			<data key="d0">Guildford</data>
+			<data key="d1">-33.854317</data>
+			<data key="d2">150.984486</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="GYM">
+			<data key="d0">Gymea</data>
+			<data key="d1">-34.034886</data>
+			<data key="d2">151.085678</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="HRP">
+			<data key="d0">Harris Park</data>
+			<data key="d1">-33.823338</data>
+			<data key="d2">151.007654</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="HTC">
+			<data key="d0">Heathcote</data>
+			<data key="d1">-34.087962</data>
+			<data key="d2">151.008255</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="HLB">
+			<data key="d0">Helensburgh</data>
+			<data key="d1">-34.176924</data>
+			<data key="d2">150.994831</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="HLL">
+			<data key="d0">Hills Showground</data>
+			<data key="d1">-33.72788</data>
+			<data key="d2">150.98713</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="HLW">
+			<data key="d0">Holsworthy</data>
+			<data key="d1">-33.963203</data>
+			<data key="d2">150.956476</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="HOM">
+			<data key="d0">Homebush</data>
+			<data key="d1">-33.866812</data>
+			<data key="d2">151.086461</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="HRL">
+			<data key="d0">Hurlstone Park</data>
+			<data key="d1">-33.910592</data>
+			<data key="d2">151.131793</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="HRV">
+			<data key="d0">Hurstville</data>
+			<data key="d1">-33.967273</data>
+			<data key="d2">151.10233</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="IGB">
+			<data key="d0">Ingleburn</data>
+			<data key="d1">-33.997195</data>
+			<data key="d2">150.864903</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="IAP">
+			<data key="d0">International Airport</data>
+			<data key="d1">-33.934998</data>
+			<data key="d2">151.16589</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="JNL">
+			<data key="d0">Jannali</data>
+			<data key="d1">-34.015952</data>
+			<data key="d2">151.06463</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="KLV">
+			<data key="d0">Kellyville</data>
+			<data key="d1">-33.71319</data>
+			<data key="d2">150.93513</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="KLR">
+			<data key="d0">Killara</data>
+			<data key="d1">-33.76548</data>
+			<data key="d2">151.16169</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="KCS">
+			<data key="d0">Kings Cross</data>
+			<data key="d1">-33.874601</data>
+			<data key="d2">151.222423</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="KGV">
+			<data key="d0">Kingsgrove</data>
+			<data key="d1">-33.940529</data>
+			<data key="d2">151.10069</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="KWD">
+			<data key="d0">Kingswood</data>
+			<data key="d1">-33.758289</data>
+			<data key="d2">150.720007</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="KRW">
+			<data key="d0">Kirrawee</data>
+			<data key="d1">-34.034939</data>
+			<data key="d2">151.071905</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="KGR">
+			<data key="d0">Kogarah</data>
+			<data key="d1">-33.962159</data>
+			<data key="d2">151.132574</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="LMB">
+			<data key="d0">Lakemba</data>
+			<data key="d1">-33.920118</data>
+			<data key="d2">151.075865</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="LGF">
+			<data key="d0">Leightonfield</data>
+			<data key="d1">-33.881525</data>
+			<data key="d2">150.985226</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="LPP">
+			<data key="d0">Leppington</data>
+			<data key="d1">-33.95443</data>
+			<data key="d2">150.80806</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="LMH">
+			<data key="d0">Leumeah</data>
+			<data key="d1">-34.05076</data>
+			<data key="d2">150.830507</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="LWH">
+			<data key="d0">Lewisham</data>
+			<data key="d1">-33.893369</data>
+			<data key="d2">151.147627</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="LNF">
+			<data key="d0">Lindfield</data>
+			<data key="d1">-33.77561</data>
+			<data key="d2">151.169214</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="LFT">
+			<data key="d0">Loftus</data>
+			<data key="d1">-34.045338</data>
+			<data key="d2">151.051353</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="MCA">
+			<data key="d0">Macarthur</data>
+			<data key="d1">-34.071986</data>
+			<data key="d2">150.79719</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="MDT">
+			<data key="d0">Macdonaldtown</data>
+			<data key="d1">-33.896905</data>
+			<data key="d2">151.185892</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="MQF">
+			<data key="d0">Macquarie Fields</data>
+			<data key="d1">-33.984789</data>
+			<data key="d2">150.878901</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="MQP">
+			<data key="d0">Macquarie Park</data>
+			<data key="d1">-33.785127</data>
+			<data key="d2">151.128302</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="MQU">
+			<data key="d0">Macquarie University</data>
+			<data key="d1">-33.77741</data>
+			<data key="d2">151.1182</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="MRY">
+			<data key="d0">Marayong</data>
+			<data key="d1">-33.746185</data>
+			<data key="d2">150.900191</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="MKV">
+			<data key="d0">Marrickville</data>
+			<data key="d1">-33.913943</data>
+			<data key="d2">151.153551</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="MAP">
+			<data key="d0">Martin Place</data>
+			<data key="d1">-33.867818</data>
+			<data key="d2">151.210759</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="MSC">
+			<data key="d0">Mascot</data>
+			<data key="d1">-33.923191</data>
+			<data key="d2">151.187265</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="MDB">
+			<data key="d0">Meadowbank</data>
+			<data key="d1">-33.815914</data>
+			<data key="d2">151.0901</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="MRL">
+			<data key="d0">Merrylands</data>
+			<data key="d1">-33.836813</data>
+			<data key="d2">150.992328</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="MSP">
+			<data key="d0">Milsons Point</data>
+			<data key="d1">-33.845863</data>
+			<data key="d2">151.211791</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="MNT">
+			<data key="d0">Minto</data>
+			<data key="d1">-34.027239</data>
+			<data key="d2">150.842575</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="MRD">
+			<data key="d0">Miranda</data>
+			<data key="d1">-34.036313</data>
+			<data key="d2">151.102695</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="MRT">
+			<data key="d0">Mortdale</data>
+			<data key="d1">-33.970847</data>
+			<data key="d2">151.081126</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="MTC">
+			<data key="d0">Mount Colah</data>
+			<data key="d1">-33.671969</data>
+			<data key="d2">151.114529</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="MTD">
+			<data key="d0">Mount Druitt</data>
+			<data key="d1">-33.769582</data>
+			<data key="d2">150.820197</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="MTK">
+			<data key="d0">Mount Kuring-gai</data>
+			<data key="d1">-33.653171</data>
+			<data key="d2">151.136868</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="MGR">
+			<data key="d0">Mulgrave</data>
+			<data key="d1">-33.626643</data>
+			<data key="d2">150.830478</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="MSM">
+			<data key="d0">Museum</data>
+			<data key="d1">-33.876003</data>
+			<data key="d2">151.209999</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="NRW">
+			<data key="d0">Narwee</data>
+			<data key="d1">-33.947576</data>
+			<data key="d2">151.070256</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="NWN">
+			<data key="d0">Newtown</data>
+			<data key="d1">-33.897788</data>
+			<data key="d2">151.179568</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="NMH">
+			<data key="d0">Normanhurst</data>
+			<data key="d1">-33.720846</data>
+			<data key="d2">151.097051</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="NRD">
+			<data key="d0">North Ryde</data>
+			<data key="d1">-33.79436</data>
+			<data key="d2">151.13828</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="NSF">
+			<data key="d0">North Strathfield</data>
+			<data key="d1">-33.859024</data>
+			<data key="d2">151.088133</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="NSY">
+			<data key="d0">North Sydney</data>
+			<data key="d1">-33.84119</data>
+			<data key="d2">151.207469</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="NWT">
+			<data key="d0">Norwest</data>
+			<data key="d1">-33.73403</data>
+			<data key="d2">150.96419</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="OTL">
+			<data key="d0">Oatley</data>
+			<data key="d1">-33.980517</data>
+			<data key="d2">151.079026</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="OLY">
+			<data key="d0">Olympic Park</data>
+			<data key="d1">-33.84653</data>
+			<data key="d2">151.06953</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="PDS">
+			<data key="d0">Padstow</data>
+			<data key="d1">-33.951893</data>
+			<data key="d2">151.03233</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="PAN">
+			<data key="d0">Panania</data>
+			<data key="d1">-33.954336</data>
+			<data key="d2">150.99784</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="PRM">
+			<data key="d0">Parramatta</data>
+			<data key="d1">-33.817511</data>
+			<data key="d2">151.005401</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="PDH">
+			<data key="d0">Pendle Hill</data>
+			<data key="d1">-33.801502</data>
+			<data key="d2">150.956448</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="PNH">
+			<data key="d0">Pennant Hills</data>
+			<data key="d1">-33.737923</data>
+			<data key="d2">151.072556</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="PNR">
+			<data key="d0">Penrith</data>
+			<data key="d1">-33.749988</data>
+			<data key="d2">150.696094</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="PHT">
+			<data key="d0">Penshurst</data>
+			<data key="d1">-33.966198</data>
+			<data key="d2">151.088847</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="PTH">
+			<data key="d0">Petersham</data>
+			<data key="d1">-33.893911</data>
+			<data key="d2">151.155373</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="PNC">
+			<data key="d0">Punchbowl</data>
+			<data key="d1">-33.925413</data>
+			<data key="d2">151.055761</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="PYM">
+			<data key="d0">Pymble</data>
+			<data key="d1">-33.744702</data>
+			<data key="d2">151.141973</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="QKH">
+			<data key="d0">Quakers Hill</data>
+			<data key="d1">-33.727728</data>
+			<data key="d2">150.886482</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="RGP">
+			<data key="d0">Regents Park</data>
+			<data key="d1">-33.882839</data>
+			<data key="d2">151.024278</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="RVB">
+			<data key="d0">Revesby</data>
+			<data key="d1">-33.952528</data>
+			<data key="d2">151.014909</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="RHD">
+			<data key="d0">Rhodes</data>
+			<data key="d1">-33.830401</data>
+			<data key="d2">151.087061</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="RCM">
+			<data key="d0">Richmond</data>
+			<data key="d1">-33.598844</data>
+			<data key="d2">150.752648</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="RVS">
+			<data key="d0">Riverstone</data>
+			<data key="d1">-33.679116</data>
+			<data key="d2">150.860288</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="RVW">
+			<data key="d0">Riverwood</data>
+			<data key="d1">-33.951506</data>
+			<data key="d2">151.052118</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="RKD">
+			<data key="d0">Rockdale</data>
+			<data key="d1">-33.951873</data>
+			<data key="d2">151.136853</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="ROH">
+			<data key="d0">Rooty Hill</data>
+			<data key="d1">-33.771518</data>
+			<data key="d2">150.84501</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="RSV">
+			<data key="d0">Roseville</data>
+			<data key="d1">-33.784368</data>
+			<data key="d2">151.177551</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="RSH">
+			<data key="d0">Rouse Hill</data>
+			<data key="d1">-33.69191</data>
+			<data key="d2">150.92425</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="SFD">
+			<data key="d0">Schofields</data>
+			<data key="d1">-33.70433</data>
+			<data key="d2">150.873772</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="SFT">
+			<data key="d0">Sefton</data>
+			<data key="d1">-33.885255</data>
+			<data key="d2">151.011484</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="SVH">
+			<data key="d0">Seven Hills</data>
+			<data key="d1">-33.774367</data>
+			<data key="d2">150.936261</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="SLN">
+			<data key="d0">St Leonards</data>
+			<data key="d1">-33.822438</data>
+			<data key="d2">151.194193</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="SMR">
+			<data key="d0">St Marys</data>
+			<data key="d1">-33.762096</data>
+			<data key="d2">150.775157</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="SPT">
+			<data key="d0">St Peters</data>
+			<data key="d1">-33.907286</data>
+			<data key="d2">151.18067</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="SNM">
+			<data key="d0">Stanmore</data>
+			<data key="d1">-33.894501</data>
+			<data key="d2">151.163909</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="STF">
+			<data key="d0">Strathfield</data>
+			<data key="d1">-33.871703</data>
+			<data key="d2">151.094233</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="SMH">
+			<data key="d0">Summer Hill</data>
+			<data key="d1">-33.890459</data>
+			<data key="d2">151.138723</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="SLD">
+			<data key="d0">Sutherland</data>
+			<data key="d1">-34.031625</data>
+			<data key="d2">151.057274</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="TLW">
+			<data key="d0">Tallawong</data>
+			<data key="d1">-33.69173</data>
+			<data key="d2">150.90568</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="TMP">
+			<data key="d0">Tempe</data>
+			<data key="d1">-33.924539</data>
+			<data key="d2">151.156433</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="THL">
+			<data key="d0">Thornleigh</data>
+			<data key="d1">-33.731822</data>
+			<data key="d2">151.078386</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="TNG">
+			<data key="d0">Toongabbie</data>
+			<data key="d1">-33.787469</data>
+			<data key="d2">150.951463</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="TRM">
+			<data key="d0">Turramurra</data>
+			<data key="d1">-33.732307</data>
+			<data key="d2">151.128378</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="TRL">
+			<data key="d0">Turrella</data>
+			<data key="d1">-33.929919</data>
+			<data key="d2">151.139961</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="VLW">
+			<data key="d0">Villawood</data>
+			<data key="d1">-33.880881</data>
+			<data key="d2">150.976164</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="VNY">
+			<data key="d0">Vineyard</data>
+			<data key="d1">-33.650404</data>
+			<data key="d2">150.851123</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="WHR">
+			<data key="d0">Wahroonga</data>
+			<data key="d1">-33.717539</data>
+			<data key="d2">151.116998</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="WTR">
+			<data key="d0">Waitara</data>
+			<data key="d1">-33.709988</data>
+			<data key="d2">151.104293</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="WRW">
+			<data key="d0">Warrawee</data>
+			<data key="d1">-33.724201</data>
+			<data key="d2">151.121711</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="WWF">
+			<data key="d0">Warwick Farm</data>
+			<data key="d1">-33.91333</data>
+			<data key="d2">150.935102</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="WFL">
+			<data key="d0">Waterfall</data>
+			<data key="d1">-34.134449</data>
+			<data key="d2">150.994456</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="WVT">
+			<data key="d0">Waverton</data>
+			<data key="d1">-33.838092</data>
+			<data key="d2">151.197647</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="WWV">
+			<data key="d0">Wentworthville</data>
+			<data key="d1">-33.807184</data>
+			<data key="d2">150.972661</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="WGT">
+			<data key="d0">Werrington</data>
+			<data key="d1">-33.759217</data>
+			<data key="d2">150.757942</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="WRY">
+			<data key="d0">West Ryde</data>
+			<data key="d1">-33.807037</data>
+			<data key="d2">151.09029</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="WMD">
+			<data key="d0">Westmead</data>
+			<data key="d1">-33.808496</data>
+			<data key="d2">150.988018</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="WLP">
+			<data key="d0">Wiley Park</data>
+			<data key="d1">-33.922955</data>
+			<data key="d2">151.067336</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="WND">
+			<data key="d0">Windsor</data>
+			<data key="d1">-33.613687</data>
+			<data key="d2">150.811054</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="WSC">
+			<data key="d0">Wollstonecraft</data>
+			<data key="d1">-33.831713</data>
+			<data key="d2">151.191728</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="WLW">
+			<data key="d0">Woolooware</data>
+			<data key="d1">-34.047699</data>
+			<data key="d2">151.144117</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="YGN">
+			<data key="d0">Yagoona</data>
+			<data key="d1">-33.906741</data>
+			<data key="d2">151.024316</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="YNR">
+			<data key="d0">Yennora</data>
+			<data key="d1">-33.864629</data>
+			<data key="d2">150.97115</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="BWD">
+			<data key="d0">Burwood</data>
+			<data key="d1">-33.87713</data>
+			<data key="d2">151.104034</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="CNT">
+			<data key="d0">Central</data>
+			<data key="d1">-33.882413</data>
+			<data key="d2">151.206665</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="CHW">
+			<data key="d0">Chatswood</data>
+			<data key="d1">-33.797481</data>
+			<data key="d2">151.180939</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="CQY">
+			<data key="d0">Circular Quay</data>
+			<data key="d1">-33.861359</data>
+			<data key="d2">151.210719</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="EPP">
+			<data key="d0">Epping</data>
+			<data key="d1">-33.772863</data>
+			<data key="d2">151.08209</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="GLF">
+			<data key="d0">Glenfield</data>
+			<data key="d1">-33.972242</data>
+			<data key="d2">150.893088</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="HRN">
+			<data key="d0">Hornsby</data>
+			<data key="d1">-33.703477</data>
+			<data key="d2">151.098366</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="LCM">
+			<data key="d0">Lidcombe</data>
+			<data key="d1">-33.863815</data>
+			<data key="d2">151.045243</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="LVP">
+			<data key="d0">Liverpool</data>
+			<data key="d1">-33.924542</data>
+			<data key="d2">150.92764</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="RFN">
+			<data key="d0">Redfern</data>
+			<data key="d1">-33.8923</data>
+			<data key="d2">151.19815</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="SJM">
+			<data key="d0">St James</data>
+			<data key="d1">-33.870871</data>
+			<data key="d2">151.211902</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="SYH">
+			<data key="d0">Sydenham</data>
+			<data key="d1">-33.914743</data>
+			<data key="d2">151.166107</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="TWH">
+			<data key="d0">Town Hall</data>
+			<data key="d1">-33.873567</data>
+			<data key="d2">151.20685</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="WCR">
+			<data key="d0">Wolli Creek</data>
+			<data key="d1">-33.928522</data>
+			<data key="d2">151.153989</data>
+			<data key="d3">built</data>
+		</node>
+		<node id="WYN">
+			<data key="d0">Wynyard</data>
+			<data key="d1">-33.86599</data>
+			<data key="d2">151.20581</data>
+			<data key="d3">built</data>
+		</node>
+		<edge source="ALW" target="HRV" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="ALW" target="CLT" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="ARC" target="BKS" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="ARC" target="WCR" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="ATM" target="SLN" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="ATM" target="SLN" id="1">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="ATM" target="CHW" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="ATM" target="CHW" id="1">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="ASH" target="CYD" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="ASH" target="SMH" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="ASQ" target="MTC" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="ASQ" target="HRN" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="AUB" target="CLY" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="AUB" target="CLY" id="1">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="AUB" target="LCM" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="AUB" target="LCM" id="1">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BKS" target="RKD" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BNK" target="YGN" id="0">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BNK" target="PNC" id="0">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BWP" target="BXN" id="0">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BWP" target="TRL" id="0">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BEE" target="PNH" id="0">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BEE" target="CHA" id="0">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BVS" target="NWT" id="0">
+			<data key="d4">M</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BVS" target="KLV" id="0">
+			<data key="d4">M</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BLM" target="LMB" id="0">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BLM" target="CPS" id="0">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BRL" target="RGP" id="0">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BRL" target="LCM" id="0">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BWR" target="MTK" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BVH" target="NRW" id="0">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BVH" target="KGV" id="0">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BXN" target="KGV" id="0">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BIR" target="SFT" id="0">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BIR" target="YGN" id="0">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BIR" target="RGP" id="0">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BKT" target="DOS" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BKT" target="SVH" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BKT" target="SVH" id="1">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BKT" target="MRY" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BKT" target="MRY" id="1">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BJN" target="EDG" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CMT" target="WWF" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CMT" target="WWF" id="1">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CMT" target="WWF" id="2">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CMT" target="CNV" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CMT" target="CNV" id="1">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CMT" target="CRM" id="0">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CTW" target="MCA" id="0">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CTW" target="LMH" id="0">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CPS" target="CTB" id="0">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CNV" target="FRF" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CNV" target="FRF" id="1">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CTB" target="HRL" id="0">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CGB" target="WLW" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CGB" target="MRD" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CLT" target="KGR" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CRM" target="VLW" id="0">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CSH" target="CBK" id="0">
+			<data key="d4">M</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CSH" target="HLL" id="0">
+			<data key="d4">M</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CAS" target="GLF" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CAS" target="GLF" id="1">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CAS" target="LVP" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CAS" target="LVP" id="1">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CHA" target="EPP" id="0">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CBK" target="EPP" id="0">
+			<data key="d4">M</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CHH" target="LGF" id="0">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CHH" target="SFT" id="0">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CLD" target="ERM" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CLD" target="ERM" id="1">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CLD" target="WND" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CLD" target="WND" id="1">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CLY" target="GNV" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CLY" target="GNV" id="1">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="COM" target="JNL" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="COM" target="OTL" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CNC" target="RHD" id="0">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CNC" target="NSF" id="0">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CNL" target="WLW" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CYD" target="BWD" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="DEN" target="EWD" id="0">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="DEN" target="WRY" id="0">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="DAP" target="IAP" id="0">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="DAP" target="MSC" id="0">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="DOS" target="ROH" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="DLW" target="HRL" id="0">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="DLW" target="MKV" id="0">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="EHL" target="HLW" id="0">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="EHL" target="PAN" id="0">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="ERM" target="RCM" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="ERM" target="RCM" id="1">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="EWD" target="EPP" id="0">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="EDG" target="KCS" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="EDM" target="LPP" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="EDM" target="LPP" id="1">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="EDM" target="GLF" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="EDM" target="GLF" id="1">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="EMU" target="PNR" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="EGD" target="HTC" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="EGD" target="LFT" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="ERV" target="SPT" id="0">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="ERV" target="RFN" id="0">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="FRF" target="YNR" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="FRF" target="YNR" id="1">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="FLM" target="HOM" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="FLM" target="LCM" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="GRD" target="KLR" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="GRD" target="KLR" id="1">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="GRD" target="PYM" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="GNV" target="HRP" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="GNV" target="HRP" id="1">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="GNV" target="MRL" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="GSQ" target="MSC" id="0">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="GSQ" target="CNT" id="0">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="GDF" target="YNR" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="GDF" target="YNR" id="1">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="GDF" target="MRL" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="GDF" target="MRL" id="1">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="GYM" target="MRD" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="GYM" target="KRW" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="HRP" target="PRM" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="HRP" target="PRM" id="1">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="HRP" target="PRM" id="2">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="HRP" target="MRL" id="0">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="HTC" target="WFL" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="HLB" target="WFL" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="HLL" target="NWT" id="0">
+			<data key="d4">M</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="HLW" target="GLF" id="0">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="HOM" target="STF" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="HRV" target="PHT" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="IGB" target="MNT" id="0">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="IGB" target="MQF" id="0">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="IAP" target="WCR" id="0">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="JNL" target="SLD" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="KLV" target="RSH" id="0">
+			<data key="d4">M</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="KLR" target="LNF" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="KLR" target="LNF" id="1">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="KCS" target="MAP" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="KWD" target="PNR" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="KWD" target="WGT" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="KRW" target="SLD" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="KGR" target="RKD" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="LMB" target="WLP" id="0">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="LGF" target="VLW" id="0">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="LMH" target="MNT" id="0">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="LWH" target="SMH" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="LWH" target="PTH" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="LNF" target="RSV" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="LNF" target="RSV" id="1">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="LFT" target="SLD" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MDT" target="NWN" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MDT" target="RFN" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MQF" target="GLF" id="0">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MQP" target="NRD" id="0">
+			<data key="d4">M</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MQP" target="MQU" id="0">
+			<data key="d4">M</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MQU" target="EPP" id="0">
+			<data key="d4">M</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MRY" target="QKH" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MRY" target="QKH" id="1">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MKV" target="SYH" id="0">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MAP" target="TWH" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MDB" target="WRY" id="0">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MDB" target="RHD" id="0">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MSP" target="NSY" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MSP" target="NSY" id="1">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MSP" target="WYN" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MSP" target="WYN" id="1">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MRT" target="OTL" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MRT" target="PHT" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MTC" target="MTK" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MTD" target="SMR" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MTD" target="ROH" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MGR" target="WND" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MGR" target="WND" id="1">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MGR" target="VNY" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MGR" target="VNY" id="1">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MSM" target="CNT" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MSM" target="CNT" id="1">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MSM" target="CNT" id="2">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MSM" target="SJM" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MSM" target="SJM" id="1">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="MSM" target="SJM" id="2">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="NRW" target="RVW" id="0">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="NWN" target="SNM" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="NMH" target="THL" id="0">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="NMH" target="HRN" id="0">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="NRD" target="CHW" id="0">
+			<data key="d4">M</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="NSF" target="STF" id="0">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="NSY" target="WVT" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="NSY" target="WVT" id="1">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="OLY" target="LCM" id="0">
+			<data key="d4">T7</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="PDS" target="RVB" id="0">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="PDS" target="RVW" id="0">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="PAN" target="RVB" id="0">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="PRM" target="WMD" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="PRM" target="WMD" id="1">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="PDH" target="TNG" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="PDH" target="TNG" id="1">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="PDH" target="WWV" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="PDH" target="WWV" id="1">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="PNH" target="THL" id="0">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="PTH" target="SNM" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="PNC" target="WLP" id="0">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="PYM" target="TRM" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="QKH" target="SFD" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="QKH" target="SFD" id="1">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="RVS" target="VNY" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="RVS" target="VNY" id="1">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="RVS" target="SFD" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="RVS" target="SFD" id="1">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="RSV" target="CHW" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="RSV" target="CHW" id="1">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="RSH" target="TLW" id="0">
+			<data key="d4">M</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="SVH" target="TNG" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="SVH" target="TNG" id="1">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="SLN" target="WSC" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="SLN" target="WSC" id="1">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="SMR" target="WGT" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="SPT" target="RFN" id="0">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="SPT" target="SYH" id="0">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="SPT" target="SYH" id="1">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="STF" target="BWD" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="STF" target="BWD" id="1">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="STF" target="BWD" id="2">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="STF" target="LCM" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="TMP" target="SYH" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="TMP" target="WCR" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="TRM" target="WRW" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="TRL" target="WCR" id="0">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="WHR" target="WRW" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="WHR" target="WTR" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="WTR" target="HRN" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="WWF" target="LVP" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="WWF" target="LVP" id="1">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="WWF" target="LVP" id="2">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="WVT" target="WSC" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="WVT" target="WSC" id="1">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="WWV" target="WMD" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="WWV" target="WMD" id="1">
+			<data key="d4">T5</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BWD" target="RFN" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="BWD" target="RFN" id="1">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CNT" target="RFN" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CNT" target="RFN" id="1">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CNT" target="RFN" id="2">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CNT" target="RFN" id="3">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CNT" target="RFN" id="4">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CNT" target="RFN" id="5">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CNT" target="TWH" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CNT" target="TWH" id="1">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CNT" target="TWH" id="2">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CNT" target="TWH" id="3">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CNT" target="TWH" id="4">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CNT" target="TWH" id="5">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CQY" target="WYN" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CQY" target="WYN" id="1">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CQY" target="WYN" id="2">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CQY" target="SJM" id="0">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CQY" target="SJM" id="1">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="CQY" target="SJM" id="2">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="RFN" target="SYH" id="0">
+			<data key="d4">T4</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="TWH" target="WYN" id="0">
+			<data key="d4">T1</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="TWH" target="WYN" id="1">
+			<data key="d4">T9</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="TWH" target="WYN" id="2">
+			<data key="d4">T2</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="TWH" target="WYN" id="3">
+			<data key="d4">T3</data>
+			<data key="d5">permanent</data>
+		</edge>
+		<edge source="TWH" target="WYN" id="4">
+			<data key="d4">T8</data>
+			<data key="d5">permanent</data>
+		</edge>
+	</graph>
+</graphml>
